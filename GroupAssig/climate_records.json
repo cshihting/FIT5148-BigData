@@ -1,0 +1,28 @@
+{
+    "date": "27/12/2017",
+    "station": 948702,
+    "air_temperature_celcius": 28,
+    "relative_humidity": 58.3,
+    "windspeed_knots": 9.3,
+    "max_wind_speed": 15.9,
+    "precipitation ": "0.00I"
+}
+{
+    "date": "25/12/2017",
+    "station": 948702,
+    "air_temperature_celcius": 17,
+    "relative_humidity": 50.4,
+    "windspeed_knots": 10.8,
+    "max_wind_speed": 16.9,
+    "precipitation ": "0.00I"
+}
+{
+    "date": "10/12/2017",
+    "station": 948702,
+    "air_temperature_celcius": 17,
+    "relative_humidity": 53.5,
+    "windspeed_knots": 7.3,
+    "max_wind_speed": 14,
+    "precipitation ": "0.00I"
+}
+
